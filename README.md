@@ -1,5 +1,6 @@
 # >>> Tusmo possibiliter 
 
+** ATTENTION : Le fichier  "DEM.jsonl.txt" est à  ajouter dans le dossier contenant tout les fichiers.Ce fichier est dans dans l'archive present dans le dossier .
 
 
 ## 	>>> Liste des fichiers
